@@ -2,7 +2,7 @@
 
 This project utilize the powerful and versatile functionalities provided by sklearn and xgboost packages to explore various machine learning models on our
 particular classification problem (Proper citation can be found in the project report). It also examine the effect of regularization and different data engineering
-technique on the prediction score. We use accuracy score and ROC as our evaluation metric.
+technique on the prediction score. We use accuracy score and ROC as our evaluation metrics.
 
 All code block within Pet_Adoption_Prediction.ipynb can be run directly given that the dataset is already included in this repo.
 
