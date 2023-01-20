@@ -1,4 +1,4 @@
-# Pet_Adoption_Prediction
+# Pet Adoption Prediction
 
 This project utilize the powerful and versatile functionalities provided by sklearn and xgboost packages to explore various machine learning models on our
 particular classification problem (Proper citation can be found in the project report). It also examine the effect of regularization and different data engineering
